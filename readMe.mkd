@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GUI development<br>👯 I’m looking to collaborate on web dev projects <br>🌱 I’m currently learning Backend development and react.js<br>⚡ Fun fact : I have a deep-desire to work on cutting edge technologies
+🔭 I’m currently working on GUI development at [![Vegapod Hyperloop](https://www.instagram.com/vegapodhyperloop/)]<br>👯 I’m looking to collaborate on web dev projects <br>🌱 I’m currently learning Backend development and react.js<br>⚡ Fun fact : I have a deep-desire to work on cutting edge technologies
 
 
 ## 🌐 Socials:
