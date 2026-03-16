@@ -15,13 +15,13 @@ I'm a Computer Science Engineering student at MIT World Peace University, gradua
 
 ### Tech Stack
 
-**Languages**
+## **Languages**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries**
+## **Frameworks & Libraries**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Tools & Technologies**
+## **Tools & Technologies**<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -37,19 +37,18 @@ I'm a Computer Science Engineering student at MIT World Peace University, gradua
 
 ### 🔥 Featured Projects
 
-**[RustOS] - Custom Operating System Kernel**
-A personal project building a 64-bit OS kernel from the ground up using Rust.
+## **RISC-V OS - Custom Operating System Kernel** <br>
+* Building a 64-bit OS kernel from the ground up using Rust.
 * Implemented physical memory management, paging, and interrupt handling.
 * Focused on memory safety and concurrency at the hardware level.
 
-**Natural Language Database Query Tool** 
-A tool designed to allow users to query databases using plain English instead of SQL.
-* Utilizes NLP to map natural language to structured queries.
-* Simplifies data access for non-technical users.
-* Currently under development
+## Vegapod Website
+* The official website for the Vegapod Hyperloop club MIT-WPU
+* Built using Next.js and Tailwind CSS
 
-**React Chess Engine**
-A fully functional chess engine built with a React frontend and optimized logic.
+## **React Chess Engine**
+* A fully functional chess engine built with a React frontend and optimized logic.
+* Implemented Mini-Max Search algorithm for move generation.
 * Integrated custom move calculation and game state management.
 * Focuses on clean UI/UX for seamless strategic play.
 
@@ -58,8 +57,8 @@ A fully functional chess engine built with a React frontend and optimized logic.
 
 ### 📊 GitHub Stats
 
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanmayGadge&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayGadge&layout=compact&theme=radical)
 
 ---
 
