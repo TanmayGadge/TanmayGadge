@@ -1,1 +1,79 @@
+# Hi there, I'm Tanmay Gadge 👋
+
+I'm a Computer Science Engineering student at MIT World Peace University, graduating in May 2027. I am passionate about bridging the gap between low-level systems and high-level intelligence—whether I'm writing an operating system kernel from scratch or developing computer vision models.
+
+### About Me
+
+* 🤖 AI Enthusiast: I enjoy building Intelligent Systems and exploring the intersection of Deep Learning and Algorithmic Efficiency.
+* 🧠 Machine Learning: Interested in Neural Architecture, Probabilistic Models, and how AI can be scaled to solve complex, real-world problems.
+* 💻 **Systems & AI**: I enjoy Low-Level Systems Programming (Rust/C++) and building AI/ML applications focused on Computer Vision and Object Detection.
+* ♟️ **Strategist**: I built a Chess Engine using React and enjoy the logic behind strategic gaming.
+* 🔧 **Hardware Enthusiast**: Experienced in IoT and Embedded Systems, working with ESP8266, Arduino, and real-time sensor integration.
+* 📈 **Finance & Investing**: I follow the markets and enjoy quantitative investing using platforms like Upstox and Zerodha.
+
+---
+
+### Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Tools & Technologies**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### Specializations
+
+* **Artificial Intelligence:** Computer Vision, Object Detection, and Semantic Embeddings.
+* **Systems Programming:** Kernel development in Rust, Memory Management, and Multi-threading.
+* **IoT & Embedded:** Real-time data acquisition and serial communication (UART) with microcontrollers.
+* **Full-Stack Web:** Building performant interfaces and Natural Language Database Query tools.
+
+---
+
+### 🔥 Featured Projects
+
+**[RustOS] - Custom Operating System Kernel**
+A personal project building a 64-bit OS kernel from the ground up using Rust.
+* Implemented physical memory management, paging, and interrupt handling.
+* Focused on memory safety and concurrency at the hardware level.
+
+**Natural Language Database Query Tool** 
+A tool designed to allow users to query databases using plain English instead of SQL.
+* Utilizes NLP to map natural language to structured queries.
+* Simplifies data access for non-technical users.
+* Currently under development
+
+**React Chess Engine**
+A fully functional chess engine built with a React frontend and optimized logic.
+* Integrated custom move calculation and game state management.
+* Focuses on clean UI/UX for seamless strategic play.
+
+
+---
+
+### 📊 GitHub Stats
+
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+
+---
+
+---
+
+### 🛠 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayGadge&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Tanmay's Top Langs" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanmay-gadge-377b9625b/)
 
